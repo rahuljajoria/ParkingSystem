@@ -1,0 +1,11 @@
+# ignore .class files
+.class
+
+# ignore .idea files
+.idea
+
+# macOS Files
+.DS_Store
+
+# ignore .idea folders
+.idea/
